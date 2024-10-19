@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Report Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Report Card</h1>
+    <img src="https://drive.google.com/file/d/1wbn80NGIZx8q6T2GrhLW-PbNKEc8W5Ci/view?usp=drivesdk" alt="Report Card Page 1">
+    <img src="https://drive.google.com/file/d/1waESQLNDOXOz-ka3CNAB9OSLO26hOmdd/view?usp=drivesdk" alt="Report Card Page 2">
+</body>
+</html>
